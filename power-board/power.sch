@@ -8731,7 +8731,7 @@ Source: AVX .. aphvc.pdf</description>
 </class>
 </classes>
 <parts>
-<part name="JP1" library="SparkFun-Connectors" deviceset="POWER_JACK" device="PTH" value="POWER_JACKPTH"/>
+<part name="JP1" library="SparkFun-Connectors" deviceset="POWER_JACK" device="PTH_LOCK" value="POWER_JACKPTH_LOCK"/>
 <part name="IC1" library="linear" deviceset="78*" device="TV" technology="05"/>
 <part name="D1" library="SparkFun-LED" deviceset="LED" device="5MM"/>
 <part name="R1" library="resistor" deviceset="R-EU_" device="0207/10" value="680"/>
