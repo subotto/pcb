@@ -369,7 +369,7 @@ UsedLibrary="/afs/uz.sns.it/user/carme/eagle-7.2.0/lbr/SparkFun-Eagle-Libraries-
 
 [Win_1]
 Type="Board Editor"
-Loc="0 0 599 399"
+Loc="0 27 599 426"
 State=1
 Number=2
 File="power.brd"
@@ -415,7 +415,7 @@ Layer=16
 
 [Win_2]
 Type="Schematic Editor"
-Loc="0 0 599 399"
+Loc="0 27 599 426"
 State=1
 Number=1
 File="power.sch"
@@ -458,11 +458,12 @@ ArcDirection=0
 AddLevel=2
 PadsSameType=0
 Layer=91
+Views=" 1: -8.40474 -17.2668 176.507 101.605"
 Sheet="1"
 
 [Win_3]
 Type="Control Panel"
-Loc="589 52 1188 451"
+Loc="108 20 707 419"
 State=2
 Number=0
 
