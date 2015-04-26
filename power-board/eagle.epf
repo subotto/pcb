@@ -29,6 +29,12 @@ UsedLibrary="/home/carmelo/eagle-7.2.0/lbr/SparkFun-Eagle-Libraries-master/Spark
 UsedLibrary="/home/carmelo/eagle-7.2.0/lbr/SparkFun-Eagle-Libraries-master/User-Submitted.lbr"
 
 [Win_1]
+Type="Control Panel"
+Loc="0 0 599 399"
+State=2
+Number=0
+
+[Win_2]
 Type="Board Editor"
 Loc="273 122 872 521"
 State=1
@@ -74,9 +80,9 @@ AddLevel=2
 PadsSameType=0
 Layer=16
 
-[Win_2]
+[Win_3]
 Type="Schematic Editor"
-Loc="0 27 599 426"
+Loc="341 27 940 426"
 State=1
 Number=2
 File="power.sch"
@@ -121,12 +127,6 @@ PadsSameType=0
 Layer=91
 Views=" 1: -44.6004 -0.860172 96.882 98.4598"
 Sheet="1"
-
-[Win_3]
-Type="Control Panel"
-Loc="91 119 690 518"
-State=2
-Number=0
 
 [Desktop]
 Screen="1280 800"

@@ -1,4 +1,7 @@
 # pcb
 Progetto in EAGLE-EAD per la scheda integrata
-- l'unico schema completo ad ora è la power board.
-- in cantiere: alimentatore led/charge pump; scheda fotocellule con TL082
+situazione (26/04/15)
+
+Il repo contiene tre progetti Eagle (la versione freeware non mi consente di riunirli in uno solo, per ora)
+- ciao
+
